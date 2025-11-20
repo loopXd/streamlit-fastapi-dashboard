@@ -1,0 +1,15 @@
+# Ambiente Python
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
