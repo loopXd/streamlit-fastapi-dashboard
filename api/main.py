@@ -19,4 +19,3 @@ relatorio = [
 @app.get("/dados")
 def get_dados():
     return relatorio
-
